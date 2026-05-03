@@ -1,6 +1,8 @@
 <div align="center">
-  
-## AERMOD-IPT AERMET Setup
+  <h1>
+    AERMOD-IPT<br>
+    <small>AERMET Setup</small>
+  </h1>
 </div>
 
 **ABSTRACT** 
