@@ -1,4 +1,8 @@
-# AERMET Automation
+<div align="center">
+  <h1>
+    AERMET Automation
+  </h1>
+</div>
 
 ## Overview
 
